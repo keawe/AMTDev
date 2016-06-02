@@ -13,6 +13,8 @@ namespace ConsoleApplication1
             Console.WriteLine("test");
             Console.WriteLine("test");
             Console.WriteLine("test");
+            
+            Console.WriteLine("test from server");
         }
     }
 }
